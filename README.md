@@ -3,7 +3,7 @@ Hey guys, welcome, first of all this is a in-school software, so others just go 
 
 
 # Features
-First, this application needs an activation code to be used, in order to get one, message me, it's 30¥ each, and who knows if I'm going to update something in G11 and G12. Each code can be only used only once, if found sharing informations inside the software then no more resources will be updating in the future.
+First, this application needs an activation code to be used, in order to get one, message me, and who knows if I'm going to update something in G11 and G12. Each code can be only used only once, if found sharing informations inside the software then no more resources will be updating in the future.
 
 # Installation
 
